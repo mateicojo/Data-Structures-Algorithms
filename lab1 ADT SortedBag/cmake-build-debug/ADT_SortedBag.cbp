@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ADT_SortedBag"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/d/C Projects/Data Structures &amp; Algorithms/ADT SortedBag/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/d/C\ Projects/Data\ Structures\ &amp;\ Algorithms/ADT\ SortedBag/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/d/C\ Projects/Data\ Structures\ &amp;\ Algorithms/ADT\ SortedBag/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/C\ Projects/Data\ Structures\ &amp;\ Algorithms/ADT\ SortedBag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/C\ Projects/Data\ Structures\ &amp;\ Algorithms/ADT\ SortedBag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ADT_SortedBag">
+				<Option output="/mnt/d/C Projects/Data Structures &amp; Algorithms/ADT SortedBag/cmake-build-debug/ADT_SortedBag" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/C Projects/Data Structures &amp; Algorithms/ADT SortedBag/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/C Projects/Data Structures &amp; Algorithms/ADT SortedBag/."/>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/d/C\ Projects/Data\ Structures\ &amp;\ Algorithms/ADT\ SortedBag/cmake-build-debug/Makefile&quot;  VERBOSE=1 ADT_SortedBag"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/d/C\ Projects/Data\ Structures\ &amp;\ Algorithms/ADT\ SortedBag/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/C\ Projects/Data\ Structures\ &amp;\ Algorithms/ADT\ SortedBag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/C\ Projects/Data\ Structures\ &amp;\ Algorithms/ADT\ SortedBag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ADT_SortedBag/fast">
+				<Option output="/mnt/d/C Projects/Data Structures &amp; Algorithms/ADT SortedBag/cmake-build-debug/ADT_SortedBag" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/C Projects/Data Structures &amp; Algorithms/ADT SortedBag/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/C Projects/Data Structures &amp; Algorithms/ADT SortedBag/."/>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/d/C\ Projects/Data\ Structures\ &amp;\ Algorithms/ADT\ SortedBag/cmake-build-debug/Makefile&quot;  VERBOSE=1 ADT_SortedBag/fast"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/d/C\ Projects/Data\ Structures\ &amp;\ Algorithms/ADT\ SortedBag/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/C\ Projects/Data\ Structures\ &amp;\ Algorithms/ADT\ SortedBag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/C\ Projects/Data\ Structures\ &amp;\ Algorithms/ADT\ SortedBag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/d/C Projects/Data Structures &amp; Algorithms/ADT SortedBag/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/d/C\ Projects/Data\ Structures\ &amp;\ Algorithms/ADT\ SortedBag/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/d/C\ Projects/Data\ Structures\ &amp;\ Algorithms/ADT\ SortedBag/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/C\ Projects/Data\ Structures\ &amp;\ Algorithms/ADT\ SortedBag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/C\ Projects/Data\ Structures\ &amp;\ Algorithms/ADT\ SortedBag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/d/C Projects/Data Structures &amp; Algorithms/ADT SortedBag/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/d/C\ Projects/Data\ Structures\ &amp;\ Algorithms/ADT\ SortedBag/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/d/C\ Projects/Data\ Structures\ &amp;\ Algorithms/ADT\ SortedBag/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/C\ Projects/Data\ Structures\ &amp;\ Algorithms/ADT\ SortedBag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/C\ Projects/Data\ Structures\ &amp;\ Algorithms/ADT\ SortedBag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/d/C Projects/Data Structures &amp; Algorithms/ADT SortedBag/App.cpp">
+			<Option target="ADT_SortedBag"/>
+		</Unit>
+		<Unit filename="/mnt/d/C Projects/Data Structures &amp; Algorithms/ADT SortedBag/ExtendedTest.cpp">
+			<Option target="ADT_SortedBag"/>
+		</Unit>
+		<Unit filename="/mnt/d/C Projects/Data Structures &amp; Algorithms/ADT SortedBag/ExtendedTest.h">
+			<Option target="ADT_SortedBag"/>
+		</Unit>
+		<Unit filename="/mnt/d/C Projects/Data Structures &amp; Algorithms/ADT SortedBag/ShortTest.cpp">
+			<Option target="ADT_SortedBag"/>
+		</Unit>
+		<Unit filename="/mnt/d/C Projects/Data Structures &amp; Algorithms/ADT SortedBag/ShortTest.h">
+			<Option target="ADT_SortedBag"/>
+		</Unit>
+		<Unit filename="/mnt/d/C Projects/Data Structures &amp; Algorithms/ADT SortedBag/SortedBag.cpp">
+			<Option target="ADT_SortedBag"/>
+		</Unit>
+		<Unit filename="/mnt/d/C Projects/Data Structures &amp; Algorithms/ADT SortedBag/SortedBag.h">
+			<Option target="ADT_SortedBag"/>
+		</Unit>
+		<Unit filename="/mnt/d/C Projects/Data Structures &amp; Algorithms/ADT SortedBag/SortedBagIterator.cpp">
+			<Option target="ADT_SortedBag"/>
+		</Unit>
+		<Unit filename="/mnt/d/C Projects/Data Structures &amp; Algorithms/ADT SortedBag/SortedBagIterator.h">
+			<Option target="ADT_SortedBag"/>
+		</Unit>
+		<Unit filename="/mnt/d/C Projects/Data Structures &amp; Algorithms/ADT SortedBag/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
